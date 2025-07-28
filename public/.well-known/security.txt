@@ -6,4 +6,4 @@ Encryption: https://aimindscape.work/pgp-key.txt
 Acknowledgments: https://aimindscape.work/security-acknowledgments
 Policy: https://aimindscape.work/security-policy
 Preferred-Languages: ja, en
-Canonical: https://aimindscape.work/.well-known/security.txt
+Canonical: https://threejs-space-particles.pages.dev/.well-known/security.txt
