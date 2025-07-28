@@ -1,0 +1,9 @@
+# セキュリティポリシー
+Contact: security@aimindscape.work
+Contact: https://aimindscape.work/security-contact
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://aimindscape.work/pgp-key.txt
+Acknowledgments: https://aimindscape.work/security-acknowledgments
+Policy: https://aimindscape.work/security-policy
+Preferred-Languages: ja, en
+Canonical: https://threejs-space-particles.pages.dev/.well-known/security.txt
