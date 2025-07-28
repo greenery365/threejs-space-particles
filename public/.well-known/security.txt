@@ -1,9 +1,9 @@
 # セキュリティポリシー
-Contact: security@example.com
-Contact: https://example.com/security-contact
+Contact: security@aimindscape.work
+Contact: https://aimindscape.work/security-contact
 Expires: 2025-12-31T23:59:59.000Z
-Encryption: https://example.com/pgp-key.txt
-Acknowledgments: https://example.com/security-acknowledgments
-Policy: https://example.com/security-policy
+Encryption: https://aimindscape.work/pgp-key.txt
+Acknowledgments: https://aimindscape.work/security-acknowledgments
+Policy: https://aimindscape.work/security-policy
 Preferred-Languages: ja, en
-Canonical: https://example.com/.well-known/security.txt
+Canonical: https://aimindscape.work/.well-known/security.txt
